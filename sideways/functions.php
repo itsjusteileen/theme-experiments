@@ -105,8 +105,8 @@ function sideways_block_editor_settings() {
 				'color' => '#FF644C',
 			),
 			array(
-				'name'  => __( 'Sidetrack Grey', 'sideways - blocks' ),
-				'slug'  => 'sidetrack - grey',
+				'name'  => __( 'Sidetrack Grey', 'sideways-blocks' ),
+				'slug'  => 'sidetrack-grey',
 				'color' => '// A39594',
 			),
 		),
